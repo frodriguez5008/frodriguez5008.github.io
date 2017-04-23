@@ -1,0 +1,50 @@
+body {
+	background:#797890;
+}
+
+h1 {
+	color:#2f2189;
+	font-family:Georgia;
+	font-size:40px;
+}
+
+h2 {
+	color:#2f2189;
+}
+
+li {
+	color:#2f2189;
+	font-family:helvetica;
+	font-size:16px;
+}
+
+h3 {
+	color:#1b5081;
+	font-family:Georgia;
+	font-size:20px;
+}
+
+a {
+	color:#3c6798;
+}
+
+p {
+	font-family:helvetica;
+	font-size:16px;
+}
+
+ul {
+    list-style-type:none;
+}
+
+p {
+	color:#1b5081;
+	font-family:Georgia;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+

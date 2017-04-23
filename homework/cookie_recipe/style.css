@@ -1,0 +1,18 @@
+body {
+	background:#FFE;
+	border-style:solid;
+	border-color:black;
+}
+
+h2.two {
+	color:#877;
+}
+
+a {
+	color:#900;
+}
+
+img {
+	border-style:solid;
+	border-color:black;
+}
