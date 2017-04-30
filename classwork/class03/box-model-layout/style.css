@@ -1,0 +1,36 @@
+.main {
+	background: #aaa;
+	padding: 20px;
+	margin: 20px;
+}
+
+.heading {
+	color: white;
+	background: black;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	font-size: 10px;
+}
+
+.purple {
+	color: purple;
+	margin-top: 10px;
+}
+
+.green {
+	color: green;
+}
+
+.yellow {
+	color: yellow;
+}
+
+p {
+	background: tomato;
+	margin: 0 auto;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	font-size: 15px;
+}
