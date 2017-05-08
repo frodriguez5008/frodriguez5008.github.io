@@ -15,6 +15,16 @@ body {
 	padding: 50px 0px;
 }
 
+.left {
+	background: white;
+	float: left;
+}
+
+.right {
+	background: white
+	float: left;
+}
+
 h1 {
 	color: red;
 	font-size: 45px;
@@ -27,7 +37,11 @@ h2 {
 }
 
 a {
-	color: #dddddd;
+	display: inline-block;	
+	color: #cccccc;
+	background-color: black;
+	text-decoration: none;
+	padding: 20px;
 }
 
 ul {
@@ -41,9 +55,10 @@ ul {
 }
 
 li {
-	display: inline;
-	font-size: 20px;
+	display: inline-block;
+	font-size: 15px;
 	padding-right: 10px;
+	margin: -2px;
 }
 
 li a:hover {
@@ -94,6 +109,15 @@ h6 {
 .break {
 	border-bottom: 1px solid black;
 	padding: 20px 0px;
+}
+
+
+.clearfix:after {
+   content: ".";
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }
 
 

@@ -1,0 +1,181 @@
+/* FONT FAMILY HELPERS :)
+font-family: 'Oswald', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Source Sans Pro', sans-serif; */
+
+.wrapper {
+	width: 1080px;
+}
+
+header {
+	background: black;
+	border-bottom: solid yellow;
+}
+
+body {
+	font-family:"Source Sans Pro";
+}
+
+h1 {
+	font-family: "Merriweather", serif;
+	color: yellow;
+	float: left;
+	margin: 15px 0px 10px 0px;
+	padding-left: 30px;
+}
+
+h2 {
+	font-family: "Merriweather";
+	background: #C6C6C6;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px;
+	font-style: italic;
+	font-style: bold;
+}
+
+.taste {
+	color: grey;
+	font-style: italic;
+	text-decoration: line-through;
+}
+
+.are {
+	text-decoration: underline;
+	text-decoration-color: yellow;
+}
+
+ul {
+	color: white;
+	float: right;
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+	color: white;
+	padding: 15px 5px 10px 5px;
+}
+
+li:last-child a {
+    padding-right: 40px;
+}
+
+a.nav {
+	text-decoration: none;
+	color: white;
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
+}
+
+.clearfix:after {    
+	content: ".";    
+	visibility: hidden;    
+	display: block;    
+	height: 0;    
+	clear: both;
+}
+
+.main {
+	background-image: url("../img/coworking.jpg");
+	background-size: cover;
+	background-position: center;
+	margin: 0px;
+	padding: 50px;
+}
+
+a.profile {
+	color: black;
+	background-color: yellow;
+	text-decoration: none;
+	font-family: "Oswald";
+	font-weight: 900px;
+	width: 100px;
+	padding: 5px 75px;
+}
+
+.profile {
+	border: .5px solid yellow;
+	border-radius: 10px;
+}
+
+p {
+	text-align: center;
+}
+
+.box {
+	background-color: rgba(255,255,255, 0.8);
+	float: right;
+	width: 300px;
+	border: solid black;
+	border-width: 1px;
+	padding: 25px;
+}
+
+h3 {
+	font-weight: 900px;
+	font-size: 22px;
+}
+
+.inlay {
+	font-weight: 500;
+}
+
+h4 {
+	font-family: "Merriweather", serif;
+	font-size: 25px;
+	margin: 0px;
+	padding: 30px 0px 0px 0px;
+}
+
+.section {
+	background-color: #e8e8e8;
+}
+
+.short {
+	padding: 0px 28px 0px 0px;
+}
+
+.inner-section-box {
+	padding-left: 15px;
+}
+
+.section-box {
+	float: left;
+	width: 359px;
+	height: 200px;
+}
+
+.vertical-bar {
+	float: left;
+	width: 1px;
+	height: 80%;
+	margin: 20px 15px;
+	background-color: #bcbcbc;
+}
+
+a.links {
+	color: black;
+	background-color: #C6C6C6;
+	text-decoration: none;
+	font-family: "Oswald";
+	font-weight: 900px;
+	width: 100px;
+	padding: 5px 75px;
+}
+
+.links {
+	border: .5px solid #C6C6C6;
+	border-radius: 10px;
+}
+
+footer {
+	color: white;
+	background-color: black;
+	padding: 30px 100px 30px 10px;
+}
+
+
