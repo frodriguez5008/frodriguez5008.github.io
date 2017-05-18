@@ -1,0 +1,2 @@
+For my final project, I wanted to create a wedding website for my sister who is getting married next year. It would include details of wedding events as well as links to wedding registries.
+Additionally, I'd like to include photographs and some sort of guestbook. 
