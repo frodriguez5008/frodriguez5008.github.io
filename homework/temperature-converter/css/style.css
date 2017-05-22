@@ -1,0 +1,91 @@
+.wrapper {
+	padding: 50px 480px;
+}
+
+h1 {
+	font-family: 'Sacramento', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #C70A26;
+}
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.input {
+	height: 2em;
+	width: 3em;
+	font-size: 2em;
+	color: black;
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	display: inline-block;
+	border: solid #666666;
+	border-width: 2px;
+	vertical-align: top;
+	color: #47040E;
+}
+
+.output {
+	height: 2em;
+	width: 3em;
+	font-size: 2em;
+	color: black;
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	display: inline-block;
+	border: solid #666666;
+	border-width: 2px;
+	color: #47040E;
+	padding-top: 5px;
+}
+
+.firsttemperature {
+	display: inline-block;
+	width: 100px;
+	vertical-align: top;
+	margin-top: 5px;
+}
+
+.secondtemperature {
+	display: inline-block;
+	width: 100px;
+	vertical-align: top;
+	margin-top: 5px;
+}
+
+.equal {
+	display: inline-block;
+	width: 50px;
+	margin-top: 35px;
+	color: #E04F64;
+	vertical-align: top;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.clearfix:after {    
+	content: ".";    
+	visibility: hidden;    
+	display: block;    
+	height: 0;    
+	clear: both; 
+}
+
+
+
+
+
+
+
+
+
+
