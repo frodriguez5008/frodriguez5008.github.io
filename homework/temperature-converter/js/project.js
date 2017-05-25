@@ -9,7 +9,13 @@ $(document).ready(function(){
   		output = String(output);
   		output = output.substring(0, 5);
 		$('#one').html(output);
+
+    if (output > '10') {
+      $('wrapper').css('background-color' , 'grey');
+    } else $('wrapper').css('background-color' , 'pink');
 	});
+
+
 
 	$('#second').change(function(){
   		var input = $(this).val();
