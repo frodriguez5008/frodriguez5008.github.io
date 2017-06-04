@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"click",
+				"clickme"
+			],
+			[
+				"light",
+				"lightswitch"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"output",
+				"outputtemp"
+			],
+			[
+				"in",
+				"inputtemp"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"thumb",
+				"thumbnails"
+			],
+			[
+				"num",
+				"numPerDay"
+			],
+			[
+				"max",
+				"maxAge"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "index.html",
+			"file_size": 0,
+			"file_write_time": 131406577400000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/final-project/Final Project Wedding Website.sublime-project",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/final-project/Final Project - Wedding Website",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/homework/temperature-converter/css/style.css",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/classwork/class10/jquery-city/js/app.js",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/final project/final project",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/homework/fashion-blog/css/main.css",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/homework/fashion-blog/index.html",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/classwork/class03/box-model-layout/index.html",
+		"/Users/Frances/Desktop/GA/frodriguez5008.github.io/classwork/class02/Press Release/about.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Frances/Desktop/GA/frodriguez5008.github.io/homework/fashion-blog/img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"folder",
+			"green"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Final Project Wedding Website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

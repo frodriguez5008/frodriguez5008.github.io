@@ -1,0 +1,27 @@
+.heading {
+	height: 600px;
+	width: 90%;
+	background-image: url('../images/image1.jpg');
+}
+
+.heading-fonts {
+	font-family: 'Meddon', cursive;
+	text-align: center;
+	color: white;
+	opacity: 1;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+nav {
+	text-align: center;
+	display: inline-block;
+	font-size: 15px;
+	padding: 10px;
+}
